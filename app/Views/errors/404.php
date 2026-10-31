@@ -1,0 +1,1 @@
+<div class="error-page"><div class="error-code">404</div><h2>Página no encontrada</h2><p>El recurso solicitado no existe o fue movido.</p><a class="btn btn-primary" href="<?= url('/dashboard') ?>">Volver al dashboard</a></div>

@@ -1,0 +1,1 @@
+<div class="error-page"><div class="error-code">403</div><h2>Acceso denegado</h2><p>No tienes permisos para acceder a este módulo.</p><a class="btn btn-primary" href="<?= url('/dashboard') ?>">Volver al dashboard</a></div>
